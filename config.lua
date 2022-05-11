@@ -11,7 +11,7 @@ Config.Cityhalls = {
             display = 4,
             scale = 0.65,
             colour = 0,
-            title = "City Services"
+            title = "Gemeente venray"
         },
         licenses = {
             ["id_card"] = {
@@ -19,12 +19,12 @@ Config.Cityhalls = {
                 cost = 50,
             },
             ["driver_license"] = {
-                label = "Driver License",
+                label = "Rijbewijs",
                 cost = 50,
                 metadata = "driver"
             },
             ["weaponlicense"] = {
-                label = "Weapon License",
+                label = "Wapen vergunning",
                 cost = 50,
                 metadata = "weapon"
             },
@@ -41,7 +41,7 @@ Config.DrivingSchools = {
             display = 4,
             scale = 0.65,
             colour = 3,
-            title = "Driving School"
+            title = "Rijschool"
         },
         instructors = {
             "DJD56142",
